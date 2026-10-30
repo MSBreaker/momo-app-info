@@ -1,0 +1,8 @@
+# Public information only. This is not the MOMO application repository.
+*
+!.gitignore
+!README.md
+!index.html
+!privacy.html
+!terms.html
+!.nojekyll
